@@ -1,0 +1,9 @@
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\05.CSSandXPath.exe.config
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\05.CSSandXPath.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\05.CSSandXPath.pdb
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\WebDriver.dll
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\WebDriver.Support.dll
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\WebDriver.xml
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\bin\Debug\WebDriver.Support.xml
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\obj\Debug\05.CSSandXPath.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\05.CSSandXPath\obj\Debug\05.CSSandXPath.pdb

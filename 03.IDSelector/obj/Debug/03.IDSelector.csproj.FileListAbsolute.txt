@@ -1,0 +1,3 @@
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\IDSelector\bin\Debug\IDSelector.exe.config
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\IDSelector\obj\Debug\IDSelector.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\IDSelector\obj\Debug\IDSelector.pdb

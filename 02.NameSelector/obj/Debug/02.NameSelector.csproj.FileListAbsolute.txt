@@ -1,0 +1,3 @@
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\NameSelector\bin\Debug\NameSelector.exe.config
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\NameSelector\obj\Debug\NameSelector.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\NameSelector\obj\Debug\NameSelector.pdb

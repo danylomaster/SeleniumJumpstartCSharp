@@ -1,0 +1,9 @@
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\08.CheckBox.exe.config
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\08.CheckBox.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\08.CheckBox.pdb
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\WebDriver.dll
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\WebDriver.Support.dll
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\WebDriver.xml
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\bin\Debug\WebDriver.Support.xml
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\obj\Debug\08.CheckBox.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\08.CheckBox\obj\Debug\08.CheckBox.pdb

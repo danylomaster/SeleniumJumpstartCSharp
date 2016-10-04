@@ -1,0 +1,9 @@
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\04.ClassNameSelector.exe.config
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\04.ClassNameSelector.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\04.ClassNameSelector.pdb
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\WebDriver.dll
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\WebDriver.Support.dll
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\WebDriver.xml
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\bin\Debug\WebDriver.Support.xml
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\obj\Debug\04.ClassNameSelector.exe
+d:\i06995\Documents\Visual Studio 2015\Projects\SleniumJumpstartCSharp\04.ClassNameSelector\obj\Debug\04.ClassNameSelector.pdb
